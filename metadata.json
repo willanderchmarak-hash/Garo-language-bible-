@@ -1,0 +1,6 @@
+{
+  "name": "Garo Bible",
+  "description": "Offline Garo Bible (A·chik Sastro) app with a beautiful modern design, reading features, search, and daily devotions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
